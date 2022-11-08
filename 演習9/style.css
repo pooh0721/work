@@ -76,7 +76,9 @@ main {
 .box {
   width: 90%;
   margin-bottom: 20px;
+  margin-leftt: 5%;
   background-size: auto;
+  
   
 }
 .box :last-child{
